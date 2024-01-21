@@ -15,6 +15,8 @@
 
 [Вопросы для проведения аттестации](https://github.com/favorart/arch_course/blob/main/questions.md)
 
+[Список воспроизведения с лекциями](https://www.youtube.com/playlist?list=PL75Bl18xnIiEsjMlWD4a2Wi-nKyoAOOOE)
+
 
 ## Лекция 1. Ограничения роста производительности процессоров
 Содержание:
@@ -29,12 +31,12 @@
 * Специальные радиационно-стойкие элементы
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/B4Utcw965xk/maxresdefault.jpg)](https://youtu.be/B4Utcw965xk)
 
 [Лекция 1. Ограничения роста производительности процессоров.pdf](https://github.com/favorart/arch_course/files/13999312/Lektsia_-_Ogranichenia_rosta_proizvodietlnosti_protsessora.pdf)
 
 
-# Лекция 2. Архитектура процессора
+## Лекция 2. Архитектура процессора
 Содержание:
 * AIR - Architecture Implementation Realization
 * Гарвардская и Стэндфордская Архитектуры
@@ -45,12 +47,12 @@
 * VLIW & EPIC
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/ZkJMn5R6AYI/maxresdefault.jpg)](https://youtu.be/ZkJMn5R6AYI)
 
 [Лекция 2. Архитектура процессора.pdf](https://github.com/favorart/arch_course/files/13999314/Lektsia_-_Arkhitektura_protsessora.pdf)
 
 
-# Лекция 3. Архитектура процессора x86_64
+## Лекция 3. Архитектура процессора x86_64
 Содержание:
 * Архитектура высокопроизводительной системы, главные компоненты
 * Архитектуры x86: P6, NetBurst, Core
@@ -63,7 +65,7 @@
 * Начальная загрузка процессора
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/PMzj0Hpt6Yg/maxresdefault.jpg)](https://youtu.be/PMzj0Hpt6Yg)
 
 [Лекция 3. Архитектура процессора x86_64.pdf](https://github.com/favorart/arch_course/files/13999322/Lektsia_-_Arkhitektura_protsessora_x86.pdf)
 
@@ -82,12 +84,12 @@
 * Micro-operations cache
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/tByW4BmPHg4/maxresdefault.jpg)](https://youtu.be/tByW4BmPHg4)
 
 [Лекция 4. Кэш процессора.pdf](https://github.com/favorart/arch_course/files/13999324/Lektsia_-_Kesh_protsessora.pdf)
 
 
-# Лекция 5. Виртуальная память
+## Лекция 5. Виртуальная память
 Содержание:
 * Определения
 * Иерархия памяти, типы памяти, локальность, трансляция
@@ -96,7 +98,7 @@
 * Сегментно-страничная адресация. Виртуальная память
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/wwcx7ZmBklU/maxresdefault.jpg)](https://youtu.be/wwcx7ZmBklU)
 
 [Лекция 5. Виртуальная память.pdf](https://github.com/favorart/arch_course/files/13999323/Lektsia_-_Virtualnaya_pamyat.pdf)
 
@@ -112,7 +114,7 @@
 * Переключение режимов работы процессора (asm)
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/JAus_CWanR4/maxresdefault.jpg)](https://youtu.be/JAus_CWanR4)
 
 [Лекция 6. Вызов процедуры.pdf](https://github.com/favorart/arch_course/files/13999328/Lektsia_-_Vyzov_protsedury.pdf)
 
@@ -127,7 +129,7 @@
 * Таймеры
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/_fGrsJmt2u0/maxresdefault.jpg)](https://youtu.be/_fGrsJmt2u0)
 
 [Лекция 7. Обработка прерываний.pdf](https://github.com/favorart/arch_course/files/13999355/Lektsia_-_Obrabotka_preryvaniy.pdf)
 
@@ -138,7 +140,9 @@
 * Ресурсы
 * Многозадачность
 * Ядро ОС
+
 Классические задачи синхронизации
+
 * Проблема Санта-Клауса
 * Курильщики сигарет
 * Спящий парикмахер
@@ -147,7 +151,7 @@
 * Производитель-потребитель
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/Aj5bWIvi5iA/maxresdefault.jpg)](https://youtu.be/Aj5bWIvi5iA)
 
 [Лекция 8. Операционная система.pdf](https://github.com/favorart/arch_course/files/13999357/Lektsia_-_Operatsionnaya_sistema.pdf)
 
@@ -161,7 +165,7 @@
 * Балансировка
 
 Видео-лекция:
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/eA3_gPXXbw/maxresdefault.jpg)](https://youtu.be/eA3_gPXXbw)
 
 [Лекция 9. Высокопроизводительные системы.pdf](https://github.com/favorart/arch_course/files/13999362/Lektsia_-_Highload.pdf)
 
