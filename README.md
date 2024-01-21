@@ -165,7 +165,7 @@
 * Балансировка
 
 Видео-лекция:
-[![Watch the video](https://img.youtube.com/vi/eA3_gPXXbw/maxresdefault.jpg)](https://youtu.be/eA3_gPXXbw)
+[![Watch the video](https://img.youtube.com/vi/weA3_gPXXbw/maxresdefault.jpg)](https://youtu.be/weA3_gPXXbw)
 
 [Лекция 9. Высокопроизводительные системы.pdf](https://github.com/favorart/arch_course/files/13999362/Lektsia_-_Highload.pdf)
 
@@ -182,8 +182,7 @@
 * СУБД: RDBMS & noSQL (HBase & Cassandra)
 * Map-Reduce BFS: поиск кратчайшего пути
 
-Аудио с лекции:
-[![Watch the video]()]()
+[Аудио с лекции](https://github.com/favorart/arch_course/blob/main/data/10.hadoop-2018.mp3)
 
 [Лекция 10. Введение в обработку больших данных.pdf](https://github.com/favorart/arch_course/files/13999377/Lektsia_-_Vvedenie_v_MapReduce.pdf)
 
